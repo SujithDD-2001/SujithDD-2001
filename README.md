@@ -14,7 +14,7 @@ Motivated engineering undergraduate with a strong foundation in **frontend devel
 
 ## 📫 Contact Information
 - 📧 **Email:** sujithddissanayaka@gmail.com  
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/sujith-dissanayaka/" target="_blank">linkedin.com/in/sujith-dissanayaka</a>
+- 💼 **LinkedIn:** <a href="www.linkedin.com/in/sujith-dissanayaka-863260241" target="_blank">linkedin.com/in/sujith-dissanayaka</a>
 - ⚡ **Nickname:** SD
 
 ---
@@ -37,7 +37,7 @@ Motivated engineering undergraduate with a strong foundation in **frontend devel
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
+  <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36"/>
