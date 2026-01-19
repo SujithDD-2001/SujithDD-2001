@@ -63,18 +63,19 @@ Motivated engineering undergraduate with a strong foundation in **frontend devel
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="36"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/selenium/selenium-original.svg" width="36"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced Frontend Architectures  
-- Machine Learning Applications  
-- System Design Principles  
+- Machine Learning Applications
+- Pattern Recognition  
+- Sustainable System Design Principles  
 
 ---
 
 <p align="center">
-  <i>“Clean code, clear thinking, and continuous improvement.”</i>
+  <i>“Clean Code, Clear Thinking, and Continuous Improvement.”</i>
 </p>
